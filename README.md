@@ -51,6 +51,8 @@ To address this, the project used **class weighting** and evaluated the model wi
 
 `Python` · `Pandas` · `NumPy` · `scikit-learn` · `TensorFlow/Keras` · `Matplotlib` · `Seaborn`
 
+[Open Project 01](./project_01_mimic_III/)
+
 ---
 
 ## 02 — Building Defect Detection from UAV Images
@@ -161,8 +163,9 @@ The experiments examine learning rate, discount factor, epsilon-based exploratio
 - DDQN reduces a source of maximization bias, but this does not guarantee better results in every small environment or run.
 
 ### Main tools
-
 `Python` · `NumPy` · `TensorFlow/Keras` · `Reinforcement Learning` · `Matplotlib` · `Google Colab`
+
+[Open Project 04](./project_04_reinforcement_learning/)
 
 ---
 
