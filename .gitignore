@@ -23,3 +23,6 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+#grades
+grade*.jpeg
