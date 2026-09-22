@@ -23,10 +23,10 @@ The repository is organized by project. Each project directory contains the rele
 
 | # | Area | Project | Main Topics |
 |---:|---|---|---|
-| 01 | Machine Learning & Deep Learning | MIMIC-III Mortality Prediction | Tabular medical data, classification, class imbalance, neural networks, evaluation |
+| 01 | Machine Learning & Deep Learning | [MIMIC-III Mortality Prediction](./project_01_mimic_III) | Tabular medical data, classification, class imbalance, neural networks, evaluation |
 | 02 | Computer Vision | [Building Defect Detection](./project_02_mbdd2025) | YOLOv8, transfer learning, fine-tuning, object detection, controlled experimentation |
 | 03 | Natural Language Processing | [jiRAG — Jira RAG Assistant](./project_03_jiRAG) | RAG, multilingual retrieval, FAISS, reranking, Gemma, QLoRA, agents, evaluation |
-| 04 | Reinforcement Learning | Tic-Tac-Toe Agents | Monte Carlo, Q-Learning, DQN, Double DQN, exploration, reward design |
+| 04 | Reinforcement Learning | [Tic-Tac-Toe Agents](./project_04_reinforcement_learning) | Monte Carlo, Q-Learning, DQN, Double DQN, exploration, reward design |
 
 > Each project folder is self-contained and includes its own detailed README or documented notebook workflow.
 
